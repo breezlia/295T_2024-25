@@ -1,7 +1,7 @@
 # ---------------------------------------------------------------------------- #
 #                                                                              #
 # 	Module:       main.py                                                      #
-# 	Author:       jroy                                                         #
+# 	Author:       Julia Roy                                                    #
 # 	Created:      8/25/2024, 7:43:49 PM                                        #
 # 	Description:  V5 project                                                   #
 #                                                                              #
